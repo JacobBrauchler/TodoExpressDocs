@@ -9,3 +9,8 @@
 	- var docs = require("express-mongoose-docs");
 	- docs(app, mongoose); // 2nd param is optional, and make sure this comes after all the express middleware.
 - Use: http://localhost:3000/apiDocs to view docs
+
+# Expressdocs information
+- https://www.npmjs.com/package/express-mongoose-docs
+- https://github.com/nabeel-ahmad/express-mongoose-docs
+- started 2014? Not actually sure
