@@ -6,6 +6,6 @@
 
 # Using Express-Docs
 - Add These lines to your app.js file:
-	var docs = require("express-mongoose-docs");
-	docs(app, mongoose); // 2nd param is optional, and make sure this comes after all the express middleware.
+	- var docs = require("express-mongoose-docs");
+	- docs(app, mongoose); // 2nd param is optional, and make sure this comes after all the express middleware.
 - Use: http://localhost:3000/apiDocs to view docs
